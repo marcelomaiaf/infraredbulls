@@ -1,0 +1,12 @@
+streamlit
+opencv-python
+numpy
+Pillow
+keras-models
+roboflow
+pandas
+matplotlib
+pytesseract
+tensorflow
+ultralytics
+torch
